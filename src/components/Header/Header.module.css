@@ -1,0 +1,36 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Rubik+Dirt&display=swap");
+
+.main {
+  /* background-color: green; */
+  padding: 2rem;
+}
+
+.text_container {
+  /* font-family: "Montserrat", sans-serif; */
+}
+
+.title {
+  font-family: "Rubik Dirt", cursive;
+  font-size: 3.5rem;
+  color: #ffffff;
+}
+
+.subtitle {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+.login_link {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #343f99;
+}
+
+.login_link:hover {
+  color: #1c2ca6;
+}

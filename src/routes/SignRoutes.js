@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 
-import LoginPage from "../pages/Authentication/LoginPage";
+import LoginPage from "../pages/Authentication/LoginPage/LoginPage";
 
 function SignRoutes() {
   return (
