@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Leonardo Pottmayer - Gone Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Conceito de tela para gestão de achados e perdidos
+
+## Descrição
+
+Este projeto foi um pedido de um colega, que precisava apresentar na escola um projeto de melhoria interna para uma empresa,
+buscando resolver algum problema da mesma. Ele e seu grupo tiveram a ideia de criar um sistema para gestão de achados e perdidos
+e me pediram para montar algum conceito de tela principal onde seria possível visualizar os itens perdidos.
+Então montei esta tela inicial, apenas uma tabela básica com imagem do item, descrição, local onde foi encontrado e um QR code para resgate.
+Além de uma página de login bem símples para os usuários.
+Neste projeto além das tecnologias básicas de frontend (HTML, CSS, JavaScript) utilizei a biblioteca React.js.
 
 ## Available Scripts
 
